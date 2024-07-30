@@ -1,0 +1,23 @@
+/* About styles */
+
+#hero {
+    overflow: hidden;
+    width: 100vw;
+    height: auto;
+  }
+  
+  #hero img {
+    object-fit: contain;
+    object-position: center;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #about-me-title {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #p-about {
+    text-align: center;
+  }
