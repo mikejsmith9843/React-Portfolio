@@ -1,0 +1,21 @@
+/* Index styles */
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-color: #ebdfcc;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  h1,
+  p {
+    color: #322217;
+  }
